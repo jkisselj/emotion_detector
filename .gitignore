@@ -11,3 +11,4 @@ results/preprocessing_test/
 # системное
 .DS_Store
 data/*.csv
+data/*.csv
