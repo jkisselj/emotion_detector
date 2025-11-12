@@ -1,0 +1,12 @@
+# виртуалки / кэш
+.venv/
+__pycache__/
+*.pyc
+
+# логи и временные артефакты
+results/model/logs/
+results/preprocessing_test/
+*.tfevents*
+
+# системное
+.DS_Store
